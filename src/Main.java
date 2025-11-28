@@ -19,10 +19,5 @@ public class Main {
         displayArea(quadrilateral2);
         displayPerimeter(quadrilateral2);
 
-//        System.out.println("La surface du quadrilatère 1 un est : " + quadrilateral1.getArea() + " unité d'aire");
-//        System.out.println("Le perimètre du quadrilatère 1 un est : " + quadrilateral1.getPerimeter() + " unité de longueur");
-//        System.out.println("La surface du quadrilatère 2 un est : " + quadrilateral2.getArea() + " unité d'aire");
-//        System.out.println("Le perimètre du quadrilatère 2 un est : " + quadrilateral2.getPerimeter() + " unité de longueur");
     }
-
 }
